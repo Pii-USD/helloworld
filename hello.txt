@@ -8,3 +8,6 @@ Again
 This is me from GitHub to be clone to local
 Me Again 
 this is from Local Repo git add, commit, push to hub
+Me again
+it's easy to clone then to push
+add more more more
